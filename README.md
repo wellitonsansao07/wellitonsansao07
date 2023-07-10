@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Welliton Sansão, estudante de programação e atualmente estou criando projetos com:
+Eu sou o Welliton Sansão, estudante de programação e atualmente estou criando projetos, utilizando:
 <br>
 <li>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
