@@ -14,7 +14,6 @@ Eu sou o Welliton Sansão, estudante de programação e atualmente estou criando
 <br>
 <a href="https://www.instagram.com/wellitonsansao_7/"> <img align="left" alt="ícone do instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 
-[![Welliton Sansão stats](https://github-readme-stats.vercel.app/api?username=wellitonsansao07)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
